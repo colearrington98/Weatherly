@@ -2,6 +2,9 @@
 
 ## Deployed Site - https://colearrington98.github.io/Weatherly/
 
+![Screenshot 2023-04-05 023149](https://user-images.githubusercontent.com/119268105/230014119-3fbda055-dd2f-4ca7-a7b3-e08daff000a8.png)
+
+
 This Weather App allows users to search for the current weather and a 5-day forecast for any city. The app uses the OpenWeatherMap API to fetch weather data and displays the information on a simple and responsive interface.
 
 ## Features
