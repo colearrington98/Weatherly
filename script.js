@@ -1,5 +1,4 @@
-// Replace this with your OpenWeatherMap API key
-const apiKey = "d7f204b9fb0c4acf3751cc73d246b0b3";
+const apiKey = "d7f204b9fb0c4acf3751cc73d246b0b3"; // OpenWeather API key
 
 $(document).ready(function () {
   let searchHistory = [];
